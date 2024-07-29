@@ -6629,6 +6629,7 @@ header .flaticon-list {
   transform-origin: bottom;
   transition: all 1000ms ease;
   z-index: 10;
+  
 }
 
 .owl-item.active .animate_up {
